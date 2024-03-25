@@ -2,15 +2,15 @@
 
 2) Static vs Instance Methods - to define the differences between static and instance methods, highlighting when to use each.
 
-3) Runnable vs Callable* Was the learner able to explain the differences between Runnable and Callable in Java.
+3) Runnable vs Callable - explain the differences between Runnable and Callable in Java.
 
 4) Runnable vs Callable - write a simple multi-threaded program to print 1-100.
 
-5) Thread Safety* Was the learner able to explain thread safety and how can it be ensured in Java applications.
+5) Thread Safety - explain thread safety and how can it be ensured in Java applications.
 
 6) HashMap* Was the learner able to explain the internal working of HashMap in Java.
 
-7) Comparable vs Comparator:* Was the learner able to explain the differences between Comparable and Comparator in Java.
+7) Comparable vs Comparator - explain the differences between Comparable and Comparator in Java.
 
 8) Comparable vs Comparator: code a comparator which would sort an ArrayList in descending order.
 
