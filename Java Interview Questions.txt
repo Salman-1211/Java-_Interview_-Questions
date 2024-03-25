@@ -1,0 +1,29 @@
+1) Static vs Instance Methods* Was the learner able to define Static keyword & its various uses in Java in detail.
+
+2) Static vs Instance Methods - to define the differences between static and instance methods, highlighting when to use each.
+
+3) Runnable vs Callable* Was the learner able to explain the differences between Runnable and Callable in Java.
+
+4) Runnable vs Callable - write a simple multi-threaded program to print 1-100.
+
+5) Thread Safety* Was the learner able to explain thread safety and how can it be ensured in Java applications.
+
+6) HashMap* Was the learner able to explain the internal working of HashMap in Java.
+
+7) Comparable vs Comparator:* Was the learner able to explain the differences between Comparable and Comparator in Java.
+
+8) Comparable vs Comparator: code a comparator which would sort an ArrayList in descending order.
+
+9) Lambdas and Streams* *4.1 Stream API* Was the learner able to explain the Stream API in Java and its advantages.
+
+10) Final vs Finally vs Finalise - discuss the role of the finalise method in Java and its relationship with garbage collection.
+
+11) Final vs Finally vs Finalise* Was the learner able to differentiate between use-cases for final, finally, and finalise in Java.
+
+12) StringBuffer and StringBuilder* Was the learner able to differentiate between StringBuffer and StringBuilder in Java.
+
+13) Thread Safety - name some of the collections in java which supports Thread Safety.
+
+14) Abstraction* Was the learner able to define Abstraction in detail and implement the same.
+
+15) Abstraction - do the code implementation of abstract class and interface.
