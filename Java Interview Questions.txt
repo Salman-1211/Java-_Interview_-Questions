@@ -1,4 +1,4 @@
-1) Static vs Instance Methods* Was the learner able to define Static keyword & its various uses in Java in detail.
+1) Static vs Instance Methods - define Static keyword & its various uses in Java in detail.
 
 2) Static vs Instance Methods - to define the differences between static and instance methods, highlighting when to use each.
 
